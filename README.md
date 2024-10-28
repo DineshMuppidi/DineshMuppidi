@@ -1,5 +1,7 @@
 # Hi there, I'm Dinesh Muppidi! 👋
 
+<a href="https://www.linkedin.com/in/dineshmuppidi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 Welcome to my GitHub profile! I'm a dedicated professional transitioning into the world of cybersecurity with a strong foundation in accounts receivable, billing, and operational management, and an eye toward mastering cybersecurity and AI. Here’s a bit about me:
 
 ---
@@ -11,12 +13,16 @@ Welcome to my GitHub profile! I'm a dedicated professional transitioning into th
 
 ---
 
-### 🔧 Technical Skills
-- **Cybersecurity Concepts**: Secure software design, cyber forensics, encryption techniques, threat analysis, social engineering, database management, and cybersecurity infrastructure.
-- **Programming Languages**: Python, SQL.
-- **Certifications**:
-  - **Google Professional Cybersecurity Certification**
-  - Currently preparing for **CompTIA Security+**.
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ---
 
@@ -30,15 +36,38 @@ Welcome to my GitHub profile! I'm a dedicated professional transitioning into th
 - **Cybersecurity Internships**: Actively seeking roles that allow me to gain hands-on experience and develop my expertise further.
 - **Certifications**: Pursuing additional certifications to enhance my knowledge in **Information Technology Management**.
 
----
+---### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-### 🏅 Work Experience Highlights
-- Supported the **Athletic Department at Webster University**, handling live broadcasting for events like volleyball and soccer, and managing real-time score updates using software for timers, scoreboards, and leaderboards.
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
----
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-### 📫 Get in Touch
-- **LinkedIn**: [https://www.linkedin.com/in/dineshmuppidi/]
-- **GitHub**: [https://github.com/DineshMuppidi/]
+## Certifications
 
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
+  
 Let’s connect and collaborate on exciting cybersecurity and tech projects!
