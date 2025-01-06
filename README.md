@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a dedicated professional transitioning into th
 - **Cybersecurity Internships**: Actively seeking roles that allow me to gain hands-on experience and develop my expertise further.
 - **Certifications**: Pursuing additional certifications to enhance my knowledge in **Information Technology Management**.
 
----### Network
+### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
