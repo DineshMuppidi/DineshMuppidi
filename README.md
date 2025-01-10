@@ -1,8 +1,9 @@
-# Hi there, I'm Dinesh Muppidi! 👋
+# Welcome to my GitHub Profile!
 
 <a href="https://www.linkedin.com/in/dineshmuppidi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my GitHub profile! I'm a dedicated professional transitioning into the world of cybersecurity with a strong foundation in accounts receivable, billing, and operational management, and an eye toward mastering cybersecurity and AI. Here’s a bit about me:
+I'm a dedicated professional transitioning into cybersecurity. I have a strong foundation in accounts receivable, billing, and operational management, I'm actively pursuing cybersecurity certifications and exploring SIEM platforms to gain a comprehensive understanding of the field.
+
 
 ---
 
@@ -11,30 +12,28 @@ Welcome to my GitHub profile! I'm a dedicated professional transitioning into th
 - 🌐 Formerly, I worked in roles such as **Management Trainee** at **Genpact India Pvt Limited** and **Cognizant India Pvt Limited** with over 4 years of experience in **Accounts Receivable** and **Billing**.
 - 🏆 Awarded **Genpact's Star of the Month** for outstanding performance and received an award at **Cognizant** for hard work and team success.
 
----
 
+---
 ## Skills
 
-| Skill                                         | Associated Project         |
+Below is a list of skills and learning paths I've completed, along with certifications earned through Hack The Box, showcasing my progress and dedication to developing expertise in cybersecurity.
+
+###### Learning Path for <a href="https://academy.hackthebox.com/path/preview/soc-analyst" >**SOC Analyst** 
+
+| Skills                                          | Status          |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
----
-
-### 📂 Projects
-- **Linux Portfolio Project**: Currently working on a Linux-based project to showcase my hands-on skills in cybersecurity.
+| Incident Handling Process                     | <a href="https://academy.hackthebox.com/achievement/1553465/148">Completed</a>|
+| Security Monitoring & SIEM Fundamentals       | <a href="https://academy.hackthebox.com/achievement/1553465/211">Completed</a>|
+| Network Traffic Analysis                       |In-Progress |
+| Introduction to Threat Hunting & Hunting With Elastic         | Planned|
+| Understanding Log Sources & Investigating with Splunk      |Planned |
+| Detecting Windows Attacks with Splunk         |Planned |
+| YARA & Sigma for SOC Analysts                 |Planned |
+| JavaScript Deobfuscation                      | Planned |
 
 
 ---
 
-### 🎯 Career Goals
-- **Cybersecurity Internships**: Actively seeking roles that allow me to gain hands-on experience and develop my expertise further.
-- **Certifications**: Pursuing additional certifications to enhance my knowledge in **Information Technology Management**.
 
 ### Network
 <div>
@@ -60,14 +59,15 @@ Welcome to my GitHub profile! I'm a dedicated professional transitioning into th
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white"  />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
+---
+
+### 📂 Projects
+- **Linux Portfolio Project**: Currently working on a Linux-based project to showcase my hands-on skills in cybersecurity.
+- **Detection Lab**
+- **SOC Automation Project**
   
 Let’s connect and collaborate on exciting cybersecurity and tech projects!
