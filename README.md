@@ -24,8 +24,8 @@ Below is a list of skills and learning paths I've completed, along with certific
 |-----------------------------------------------|----------------------------|
 | Incident Handling Process                     | <a href="https://academy.hackthebox.com/achievement/1553465/148">Completed</a>|
 | Security Monitoring & SIEM Fundamentals       | <a href="https://academy.hackthebox.com/achievement/1553465/211">Completed</a>|
-| Network Traffic Analysis                       |In-Progress |
-| Introduction to Threat Hunting & Hunting With Elastic         | Planned|
+| Network Traffic Analysis                       |<a href="https://academy.hackthebox.com/achievement/1553465/81">Completed</a> |
+| Threat Hunting & Hunting With Elastic         | Planned|
 | Understanding Log Sources & Investigating with Splunk      |Planned |
 | Detecting Windows Attacks with Splunk         |Planned |
 | YARA & Sigma for SOC Analysts                 |Planned |
