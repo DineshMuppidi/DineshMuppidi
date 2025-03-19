@@ -66,8 +66,10 @@ Below is a list of skills and learning paths I've completed, along with certific
 ---
 
 ### 📂 Projects
-- **Linux Portfolio Project**: Currently working on a Linux-based project to showcase my hands-on skills in cybersecurity.
-- **Detection Lab**
-- **SOC Automation Project**
+AI-Powered Password Strength Web App (github.com/DineshMuppidi/password-strength-ai)
+- Deployed a Flask web app on Heroku to classify password strength using a Keras neural network.
+- Built a secure password generator with randomization and complexity rules.
+- Tools: Python, Flask, Keras, TensorFlow, Pandas, NumPy, Scikit-learn, Git, Heroku.
+- Live: [AI Password Strength Checker](https://dinesh-password-ai-5faa4d04becd.herokuapp.com/)
   
 Let’s connect and collaborate on exciting cybersecurity and tech projects!
