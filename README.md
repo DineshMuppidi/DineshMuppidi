@@ -8,7 +8,7 @@ I'm a dedicated professional transitioning into cybersecurity. I have a strong f
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I’m currently pursuing a Master's in **Cybersecurity** with a focus on **Artificial Intelligence**.
+- 🎓 I've completed my Master's in **Cybersecurity** with a focus on **Artificial Intelligence**.
 - 🌐 Formerly, I worked in roles such as **Management Trainee** at **Genpact India Pvt Limited** and **Cognizant India Pvt Limited** with over 4 years of experience in **Accounts Receivable** and **Billing**.
 - 🏆 Awarded **Genpact's Star of the Month** for outstanding performance and received an award at **Cognizant** for hard work and team success.
 
