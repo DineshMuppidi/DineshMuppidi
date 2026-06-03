@@ -1,4 +1,4 @@
-# Hi there, I'm Dinesh Muppidi 👋 🛡️
+# Hi there, I'm Dinesh M 👋 🛡️
 
 <p align="left">
   <img src="https://img.shields.io/badge/Senior%20Cybersecurity%20GRC%20Engineer-U.S.%20Bank-blue?style=for-the-badge&logo=accenture&logoColor=white" />
