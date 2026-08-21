@@ -21,13 +21,25 @@ I am a **Senior Cybersecurity GRC Engineer** specializing in bridging the gap be
 
 ### 🚀 Featured Projects
 
-| Project | What it does |
-| :--- | :--- |
-| 🤖 **[multi-agent-auditor](https://github.com/DineshMuppidi/multi-agent-auditor)** | Air-gapped, multi-agent AI compliance auditor (LangGraph + FastMCP + local Llama 3.2) with a three-tier maturity model, deterministic Likelihood×Impact risk scoring against SOC 2 / NIST 800-53, HITL approval gates, and scheduled GitHub Actions continuous monitoring. |
-| 🔗 **[ai-sox-integration](https://github.com/DineshMuppidi/ai-sox-integration)** | Bridges AI governance and SOX ITGC control catalogs into 14 synthesized controls, a 31-row COSO↔SOX↔AI-RMF crosswalk, a combined 12-risk register, and an ~8,000-word executive white paper on SOX for AI systems. |
-| 🧭 **[ai-governance-framework](https://github.com/DineshMuppidi/ai-governance-framework)** | AI Governance Framework mapping NIST AI RMF, OWASP LLM Top 10, and MITRE ATLAS to a 31-control catalog, with a consolidated risk register and board-ready program docs. |
-| 📋 **[sox-compliance-package](https://github.com/DineshMuppidi/sox-compliance-package)** | SOX Section 404 ITGC design package — COSO 2013 mapping, ITGC design workbook, test procedures, and an evidence collection matrix generated from a 9-control catalog. |
-| 📊 **[compliance-automation](https://github.com/DineshMuppidi/compliance-automation)** | Streamlit compliance dashboard over SQLite: mock evidence collection, a presence/freshness/pass-rate control scoring engine, and a SHA-256 hash-chained immutable audit trail — with 16 passing pytest tests. |
+#### 🤖 [multi-agent-auditor](https://github.com/DineshMuppidi/multi-agent-auditor)
+**AI agents that run a compliance audit end-to-end — and know when to stop and ask a human.**
+Compliance audits are usually either slow manual work or a script that just checks boxes without real judgment. This project uses a team of specialized AI agents that gather evidence from cloud systems, evaluate it against real security frameworks (SOC 2, NIST 800-53), and calculate a risk score for every finding — then pause and require a human to approve or reject before any report goes out. It runs entirely offline on a local AI model (no data ever leaves the machine), and can also run unattended on a schedule so new risks get flagged automatically instead of waiting for the next audit cycle.
+
+#### 🔗 [ai-sox-integration](https://github.com/DineshMuppidi/ai-sox-integration)
+**Shows exactly how an AI system affects financial-reporting controls — and what to test to prove it.**
+Companies using AI in finance-related processes need to prove those systems don't undermine SOX financial controls, but AI risk frameworks and SOX frameworks were built separately and don't talk to each other. This project connects the two: it maps AI risks directly to the SOX controls they affect, builds a combined risk register, and includes a full executive write-up in plain business language — the kind of document you'd hand to an audit committee, not just engineers.
+
+#### 🧭 [ai-governance-framework](https://github.com/DineshMuppidi/ai-governance-framework)
+**A concrete way to identify, document, and manage the risks of using AI — mapped to frameworks regulators and auditors actually recognize.**
+"AI governance" is often discussed in the abstract with no clear way to implement it. This project turns three respected AI risk frameworks (NIST AI RMF, OWASP's Top 10 for LLMs, and MITRE's ATLAS threat model) into one practical control catalog, a risk register ranking what to fix first, and program documentation — including a board-level summary — so an organization can operationalize AI governance instead of just talking about it.
+
+#### 📋 [sox-compliance-package](https://github.com/DineshMuppidi/sox-compliance-package)
+**A ready-to-use SOX internal-controls package — the workbook, test scripts, and evidence checklist an auditor would actually ask for.**
+SOX compliance requires documenting IT general controls (ITGC), testing them, and keeping evidence — work that's usually done by hand in spreadsheets. This project generates that whole package from one source of truth: a control catalog that produces the design workbook, the test procedures, and the evidence checklist together, so they always stay consistent with each other instead of drifting apart over time.
+
+#### 📊 [compliance-automation](https://github.com/DineshMuppidi/compliance-automation)
+**A live dashboard that scores whether your controls are actually working — not just whether they exist.**
+Most compliance tracking only asks "do we have this control?" — not "is it working?" This project scores each control on real signals (is evidence present, is it recent, is it passing checks) to produce a live effectiveness score and residual-risk level on a dashboard. Every action is recorded in a tamper-evident audit trail — cryptographically chained so any after-the-fact edit is detectable — the kind of integrity guarantee auditors actually care about.
 
 ---
 
