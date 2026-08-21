@@ -1,7 +1,7 @@
 # Hi there, I'm Dinesh M 👋 🛡️
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Senior%20Cybersecurity%20GRC%20Engineer-U.S.%20Bank-blue?style=for-the-badge&logo=accenture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Senior%20Cybersecurity%20GRC%20Engineer-U.S.%20Bank-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Experience-9+%20Years-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-New%20York,%20NY-orange?style=for-the-badge&logo=location-dot" />
 </p>
@@ -15,6 +15,19 @@ I am a **Senior Cybersecurity GRC Engineer** specializing in bridging the gap be
 - 🤖 Specialized in **AI Governance** (NIST AI RMF) and Cloud Compliance.
 - ⚡ Expert in automating GRC workflows via **ServiceNow** and **RSA Archer**.
 - 🎓 Master of Science in Cybersecurity (2025).
+- 🔧 I build working GRC automation — not just slides. See **Featured Projects** below.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does |
+| :--- | :--- |
+| 🤖 **[multi-agent-auditor](https://github.com/DineshMuppidi/multi-agent-auditor)** | Air-gapped, multi-agent AI compliance auditor (LangGraph + FastMCP + local Llama 3.2) with a three-tier maturity model, deterministic Likelihood×Impact risk scoring against SOC 2 / NIST 800-53, HITL approval gates, and scheduled GitHub Actions continuous monitoring. |
+| 🔗 **[ai-sox-integration](https://github.com/DineshMuppidi/ai-sox-integration)** | Bridges AI governance and SOX ITGC control catalogs into 14 synthesized controls, a 31-row COSO↔SOX↔AI-RMF crosswalk, a combined 12-risk register, and an ~8,000-word executive white paper on SOX for AI systems. |
+| 🧭 **[ai-governance-framework](https://github.com/DineshMuppidi/ai-governance-framework)** | AI Governance Framework mapping NIST AI RMF, OWASP LLM Top 10, and MITRE ATLAS to a 31-control catalog, with a consolidated risk register and board-ready program docs. |
+| 📋 **[sox-compliance-package](https://github.com/DineshMuppidi/sox-compliance-package)** | SOX Section 404 ITGC design package — COSO 2013 mapping, ITGC design workbook, test procedures, and an evidence collection matrix generated from a 9-control catalog. |
+| 📊 **[compliance-automation](https://github.com/DineshMuppidi/compliance-automation)** | Streamlit compliance dashboard over SQLite: mock evidence collection, a presence/freshness/pass-rate control scoring engine, and a SHA-256 hash-chained immutable audit trail — with 16 passing pytest tests. |
 
 ---
 
